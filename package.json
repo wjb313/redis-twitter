@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "TheUnlicense",
   "dependencies": {
     "async-redis": "^1.1.7",
     "bcrypt": "^4.0.1",
